@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <h3 id="header">Em@il $poofer</h3>
-    <form action="" method="post">
+    <form action="index.php" method="post">
         <label for="sender_name">Sender's Name:</label>
         <input type="text" name="sender_name" id="sender_name">
         <label for="sender_email">Sender's Email:</label>
