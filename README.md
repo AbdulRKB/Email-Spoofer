@@ -1,2 +1,5 @@
 # Email-Spoofer
-Send Emails from another account
+With the help of this tool, you can email people from different emails.
+
+## Requirements 
+- PHP 7.1 
