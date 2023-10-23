@@ -2,12 +2,12 @@
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $sender_name = $_POST['sender_name'];
     $sender_email = $_POST['sender_email'];
-    $reciever_email = $_POST['reciever_email'];
+    $receiver_email = $_POST['receiver_email'];
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
     $headers = "From: $sender_name "."<".$sender_email.">\r\n";
-    mail($reciever_email, $subject, $message, $headers );
+    mail($receiver_email, $subject, $message, $headers );
 }
 ?>
 <html lang="en">
