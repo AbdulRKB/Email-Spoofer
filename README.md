@@ -6,4 +6,6 @@ With the help of this tool, you can email people from different emails.
 
 ### Usage
 You can host it on [000webhost](https://000webhost.com) - 
-[*The Tool has already been deployed on 000webhost*](https://cntreon.000webhostapp.com/)
+
+## License
+***This tool is licensed under creative commons.***
