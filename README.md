@@ -1,11 +1,16 @@
-# Email-Spoofer
-With the help of this tool, you can email people from different emails.
+<div align="center">
+
+# Email Spoofer
+**Send Emails from Custom Accounts**
+
+</div>
+
 
 ## Requirements 
 - PHP 7.1 
 
-### Usage
-You can host it on [000webhost](https://000webhost.com) 
+## Usage
+You can host it on [000webhost](https://000webhost.com) or [hostinger](https://hostinger.com)
 
-## License
+### License
 ***This tool is licensed under creative commons.***
